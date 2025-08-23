@@ -1,2 +1,3 @@
-# Computa-o-Cientifica
-Projeto Integrador 4 - Computação Cientifica
+# Computação Científica
+
+Projeto Integrador 4 - Computação Científica
